@@ -19,3 +19,9 @@ Divisão: Divide o primeiro número pelo segundo (a divisão por zero não é pe
 ## Colaboradores
 
 João Pedro Alves de Brito / Cecília Araújo / Taigo Dias / Samuel Tavares Filho
+
+## Imagem da Tela
+
+div align="center"
+img src="![Screenshot](https://github.com/BadboydaZuera/TrabalhoCalculadora/assets/170328030/aa2ad08f-80a5-4b60-a2f1-f2f9670c94c3)" width="0px" /
+/div
